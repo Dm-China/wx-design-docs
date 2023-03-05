@@ -1,0 +1,1 @@
+export { default } from "/Users/zengg/Desktop/组件库/wx-design-docs/node_modules/vuepress-plugin-demo-container/src/enhanceAppFile.js"
