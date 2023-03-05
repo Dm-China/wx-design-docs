@@ -56,6 +56,18 @@ module.exports = {
           ],
         },
       ],
+      "/standard/": [
+        {
+          title: "开发工具和配置",
+          collapsable: true,
+          path: "/standard/",
+        },
+        {
+          title: "Vue 代码规范",
+          collapsable: true,
+          path: "/standard/code-lint.md",
+        }
+    ]
     },
   },
   plugins: ["demo-container"], // 配置插件

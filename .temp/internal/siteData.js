@@ -35,76 +35,6 @@ export const siteData = {
       ]
     },
     {
-      "title": "echarts 图表 基本使用",
-      "frontmatter": {},
-      "regularPath": "/pages/echarts/chart.html",
-      "relativePath": "pages/echarts/chart.md",
-      "key": "v-57f053f3",
-      "path": "/pages/echarts/chart.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "echarts 图表 基本使用",
-          "slug": "echarts-图表-基本使用"
-        },
-        {
-          "level": 3,
-          "title": "Attributes",
-          "slug": "attributes"
-        },
-        {
-          "level": 3,
-          "title": "Methods",
-          "slug": "methods"
-        }
-      ]
-    },
-    {
-      "title": "todo..",
-      "frontmatter": {},
-      "regularPath": "/pages/element-ui/date-picker.html",
-      "relativePath": "pages/element-ui/date-picker.md",
-      "key": "v-8b638cfa",
-      "path": "/pages/element-ui/date-picker.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "todo..",
-          "slug": "todo"
-        }
-      ]
-    },
-    {
-      "title": "todo...",
-      "frontmatter": {},
-      "regularPath": "/pages/element-ui/table.html",
-      "relativePath": "pages/element-ui/table.md",
-      "key": "v-510f5601",
-      "path": "/pages/element-ui/table.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "todo...",
-          "slug": "todo"
-        }
-      ]
-    },
-    {
-      "title": "todo...",
-      "frontmatter": {},
-      "regularPath": "/standard/",
-      "relativePath": "standard/README.md",
-      "key": "v-662501b8",
-      "path": "/standard/",
-      "headers": [
-        {
-          "level": 3,
-          "title": "todo...",
-          "slug": "todo"
-        }
-      ]
-    },
-    {
       "title": "Home",
       "frontmatter": {
         "home": true,
@@ -133,6 +63,136 @@ export const siteData = {
       "relativePath": "README.md",
       "key": "v-0a88c668",
       "path": "/"
+    },
+    {
+      "title": "todo..",
+      "frontmatter": {},
+      "regularPath": "/pages/element-ui/date-picker.html",
+      "relativePath": "pages/element-ui/date-picker.md",
+      "key": "v-8b638cfa",
+      "path": "/pages/element-ui/date-picker.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "todo..",
+          "slug": "todo"
+        }
+      ]
+    },
+    {
+      "title": "echarts 图表 基本使用",
+      "frontmatter": {},
+      "regularPath": "/pages/echarts/chart.html",
+      "relativePath": "pages/echarts/chart.md",
+      "key": "v-57f053f3",
+      "path": "/pages/echarts/chart.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "echarts 图表 基本使用",
+          "slug": "echarts-图表-基本使用"
+        },
+        {
+          "level": 3,
+          "title": "Attributes",
+          "slug": "attributes"
+        },
+        {
+          "level": 3,
+          "title": "Methods",
+          "slug": "methods"
+        }
+      ]
+    },
+    {
+      "title": "todo...",
+      "frontmatter": {},
+      "regularPath": "/pages/element-ui/table.html",
+      "relativePath": "pages/element-ui/table.md",
+      "key": "v-510f5601",
+      "path": "/pages/element-ui/table.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "todo...",
+          "slug": "todo"
+        }
+      ]
+    },
+    {
+      "title": "todo...",
+      "frontmatter": {},
+      "regularPath": "/standard/code-lint.html",
+      "relativePath": "standard/code-lint.md",
+      "key": "v-202201bd",
+      "path": "/standard/code-lint.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "todo...",
+          "slug": "todo"
+        }
+      ]
+    },
+    {
+      "title": "一、开发工具和配置",
+      "frontmatter": {},
+      "regularPath": "/standard/",
+      "relativePath": "standard/README.md",
+      "key": "v-662501b8",
+      "path": "/standard/",
+      "headers": [
+        {
+          "level": 2,
+          "title": "一、开发工具和配置",
+          "slug": "一、开发工具和配置"
+        },
+        {
+          "level": 3,
+          "title": "1.1 开发工具 vscode",
+          "slug": "_1-1-开发工具-vscode"
+        },
+        {
+          "level": 3,
+          "title": "1.2 统一 setting.json 文件配置",
+          "slug": "_1-2-统一-setting-json-文件配置"
+        },
+        {
+          "level": 3,
+          "title": "1.3 统一  .eslintrc.js 文件配置",
+          "slug": "_1-3-统一-eslintrc-js-文件配置"
+        },
+        {
+          "level": 3,
+          "title": "统一 忽略文件配置 .eslintignore / .gitignore",
+          "slug": "统一-忽略文件配置-eslintignore-gitignore"
+        },
+        {
+          "level": 2,
+          "title": "二、运行和打包部署",
+          "slug": "二、运行和打包部署"
+        },
+        {
+          "level": 3,
+          "title": "2.1 环境配置",
+          "slug": "_2-1-环境配置"
+        },
+        {
+          "level": 3,
+          "title": "2.2 安装依赖",
+          "slug": "_2-2-安装依赖"
+        },
+        {
+          "level": 3,
+          "title": "2.3 运行项目",
+          "slug": "_2-3-运行项目"
+        },
+        {
+          "level": 3,
+          "title": "2.4 打包项目",
+          "slug": "_2-4-打包项目"
+        }
+      ]
     }
   ],
   "themeConfig": {
@@ -175,6 +235,18 @@ export const siteData = {
               "path": "/pages/element-ui/date-picker.md"
             }
           ]
+        }
+      ],
+      "/standard/": [
+        {
+          "title": "开发工具和配置",
+          "collapsable": true,
+          "path": "/standard/"
+        },
+        {
+          "title": "Vue 代码规范",
+          "collapsable": true,
+          "path": "/standard/code-lint.md"
         }
       ]
     }
