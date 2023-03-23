@@ -35,36 +35,6 @@ export const siteData = {
       ]
     },
     {
-      "title": "Home",
-      "frontmatter": {
-        "home": true,
-        "heroImage": "/header.png",
-        "heroText": "前端组件库",
-        "tagline": "提供更接近业务场景的组件",
-        "actionText": "快速上手 →",
-        "actionLink": "/pages/",
-        "features": [
-          {
-            "title": "便捷",
-            "details": "所有组件支持全量引入和按需引入"
-          },
-          {
-            "title": "易用",
-            "details": "保持组件的原始用法，扩展常用基础功能"
-          },
-          {
-            "title": "业务",
-            "details": "更贴近业务场景，解决常规业务需求，开发提效"
-          }
-        ],
-        "footer": "MIT Licensed"
-      },
-      "regularPath": "/",
-      "relativePath": "README.md",
-      "key": "v-0a88c668",
-      "path": "/"
-    },
-    {
       "title": "todo..",
       "frontmatter": {},
       "regularPath": "/pages/element-ui/date-picker.html",
@@ -75,61 +45,6 @@ export const siteData = {
         {
           "level": 3,
           "title": "todo..",
-          "slug": "todo"
-        }
-      ]
-    },
-    {
-      "title": "echarts 图表 基本使用",
-      "frontmatter": {},
-      "regularPath": "/pages/echarts/chart.html",
-      "relativePath": "pages/echarts/chart.md",
-      "key": "v-57f053f3",
-      "path": "/pages/echarts/chart.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "echarts 图表 基本使用",
-          "slug": "echarts-图表-基本使用"
-        },
-        {
-          "level": 3,
-          "title": "Attributes",
-          "slug": "attributes"
-        },
-        {
-          "level": 3,
-          "title": "Methods",
-          "slug": "methods"
-        }
-      ]
-    },
-    {
-      "title": "todo...",
-      "frontmatter": {},
-      "regularPath": "/pages/element-ui/table.html",
-      "relativePath": "pages/element-ui/table.md",
-      "key": "v-510f5601",
-      "path": "/pages/element-ui/table.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "todo...",
-          "slug": "todo"
-        }
-      ]
-    },
-    {
-      "title": "todo...",
-      "frontmatter": {},
-      "regularPath": "/standard/code-lint.html",
-      "relativePath": "standard/code-lint.md",
-      "key": "v-202201bd",
-      "path": "/standard/code-lint.html",
-      "headers": [
-        {
-          "level": 3,
-          "title": "todo...",
           "slug": "todo"
         }
       ]
@@ -191,6 +106,91 @@ export const siteData = {
           "level": 3,
           "title": "2.4 打包项目",
           "slug": "_2-4-打包项目"
+        }
+      ]
+    },
+    {
+      "title": "Home",
+      "frontmatter": {
+        "home": true,
+        "heroImage": "/header.png",
+        "heroText": "前端组件库",
+        "tagline": "提供更接近业务场景的组件",
+        "actionText": "快速上手 →",
+        "actionLink": "/pages/",
+        "features": [
+          {
+            "title": "便捷",
+            "details": "所有组件支持全量引入和按需引入"
+          },
+          {
+            "title": "易用",
+            "details": "保持组件的原始用法，扩展常用基础功能"
+          },
+          {
+            "title": "业务",
+            "details": "更贴近业务场景，解决常规业务需求，开发提效"
+          }
+        ],
+        "footer": "MIT Licensed"
+      },
+      "regularPath": "/",
+      "relativePath": "README.md",
+      "key": "v-0a88c668",
+      "path": "/"
+    },
+    {
+      "title": "todo...",
+      "frontmatter": {},
+      "regularPath": "/pages/element-ui/table.html",
+      "relativePath": "pages/element-ui/table.md",
+      "key": "v-510f5601",
+      "path": "/pages/element-ui/table.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "todo...",
+          "slug": "todo"
+        }
+      ]
+    },
+    {
+      "title": "echarts 图表 基本使用",
+      "frontmatter": {},
+      "regularPath": "/pages/echarts/chart.html",
+      "relativePath": "pages/echarts/chart.md",
+      "key": "v-57f053f3",
+      "path": "/pages/echarts/chart.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "echarts 图表 基本使用",
+          "slug": "echarts-图表-基本使用"
+        },
+        {
+          "level": 3,
+          "title": "Attributes",
+          "slug": "attributes"
+        },
+        {
+          "level": 3,
+          "title": "Methods",
+          "slug": "methods"
+        }
+      ]
+    },
+    {
+      "title": "todo...",
+      "frontmatter": {},
+      "regularPath": "/standard/code-lint.html",
+      "relativePath": "standard/code-lint.md",
+      "key": "v-202201bd",
+      "path": "/standard/code-lint.html",
+      "headers": [
+        {
+          "level": 3,
+          "title": "todo...",
+          "slug": "todo"
         }
       ]
     }

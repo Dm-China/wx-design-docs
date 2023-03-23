@@ -21,47 +21,11 @@ export const routes = [
     redirect: "/pages/"
   },
   {
-    name: "v-0a88c668",
-    path: "/",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-0a88c668").then(next)
-    },
-  },
-  {
-    path: "/index.html",
-    redirect: "/"
-  },
-  {
     name: "v-8b638cfa",
     path: "/pages/element-ui/date-picker.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
       ensureAsyncComponentsLoaded("Layout", "v-8b638cfa").then(next)
-    },
-  },
-  {
-    name: "v-57f053f3",
-    path: "/pages/echarts/chart.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-57f053f3").then(next)
-    },
-  },
-  {
-    name: "v-510f5601",
-    path: "/pages/element-ui/table.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-510f5601").then(next)
-    },
-  },
-  {
-    name: "v-202201bd",
-    path: "/standard/code-lint.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-202201bd").then(next)
     },
   },
   {
@@ -75,6 +39,42 @@ export const routes = [
   {
     path: "/standard/index.html",
     redirect: "/standard/"
+  },
+  {
+    name: "v-0a88c668",
+    path: "/",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-0a88c668").then(next)
+    },
+  },
+  {
+    path: "/index.html",
+    redirect: "/"
+  },
+  {
+    name: "v-510f5601",
+    path: "/pages/element-ui/table.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-510f5601").then(next)
+    },
+  },
+  {
+    name: "v-57f053f3",
+    path: "/pages/echarts/chart.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-57f053f3").then(next)
+    },
+  },
+  {
+    name: "v-202201bd",
+    path: "/standard/code-lint.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-202201bd").then(next)
+    },
   },
   {
     path: '*',

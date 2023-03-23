@@ -3,10 +3,10 @@
  */
 export default {
   "v-2fa6df84": () => import("/Users/zengg/Desktop/组件库/wx-design-docs/docs/pages/README.md"),
-  "v-0a88c668": () => import("/Users/zengg/Desktop/组件库/wx-design-docs/docs/README.md"),
   "v-8b638cfa": () => import("/Users/zengg/Desktop/组件库/wx-design-docs/docs/pages/element-ui/date-picker.md"),
-  "v-57f053f3": () => import("/Users/zengg/Desktop/组件库/wx-design-docs/docs/pages/echarts/chart.md"),
+  "v-662501b8": () => import("/Users/zengg/Desktop/组件库/wx-design-docs/docs/standard/README.md"),
+  "v-0a88c668": () => import("/Users/zengg/Desktop/组件库/wx-design-docs/docs/README.md"),
   "v-510f5601": () => import("/Users/zengg/Desktop/组件库/wx-design-docs/docs/pages/element-ui/table.md"),
-  "v-202201bd": () => import("/Users/zengg/Desktop/组件库/wx-design-docs/docs/standard/code-lint.md"),
-  "v-662501b8": () => import("/Users/zengg/Desktop/组件库/wx-design-docs/docs/standard/README.md") 
+  "v-57f053f3": () => import("/Users/zengg/Desktop/组件库/wx-design-docs/docs/pages/echarts/chart.md"),
+  "v-202201bd": () => import("/Users/zengg/Desktop/组件库/wx-design-docs/docs/standard/code-lint.md") 
 }
